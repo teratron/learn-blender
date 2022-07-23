@@ -1,1 +1,1 @@
-# learn-blender
+# Learn Blender
