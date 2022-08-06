@@ -1,5 +1,5 @@
 *
 !*.blend
-!*.jpg
+#!*.jpg
 !.gitignore
 !README.md
