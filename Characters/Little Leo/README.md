@@ -1,4 +1,4 @@
-# Little Leo Character
+# Little Leo
 
 ### Видео уроки:
 
